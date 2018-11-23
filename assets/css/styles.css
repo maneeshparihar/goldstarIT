@@ -1,0 +1,22 @@
+.col-md-6 {
+  min-height:15%;
+}
+
+#col2 {
+  background-color:green;
+  color:#fff;
+  text-align:center;
+}
+
+#col1 {
+  background-color:blue;
+  color:#fff;
+  text-align:center;
+}
+
+#col1 ul li, #col2 ul li {
+  /*text-decoration:none;*/
+  list-style:none;
+  font-size:150%;
+}
+
